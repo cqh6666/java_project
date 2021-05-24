@@ -1,4 +1,4 @@
-package thread_learn.src.com.haige;
+package thread_learn.src.com.haige.use;
 
 /**
  * @className: com.haige-> Thread03
