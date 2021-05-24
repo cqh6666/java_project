@@ -1,0 +1,12 @@
+
+H
+java:S1135	"2Complete the task associated to this TODO comment.(»Ã´â
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ìÀ”Ô
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¿„“ıÿÿÿÿ8ŞÌÙó™/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(€ÃñÃøÿÿÿÿ8âúàó™/
+{
+java:S2142."^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Áàó™/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(½ĞØæ8ÃĞäó™/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ÑÖ¹¼üÿÿÿÿ8Œåæó™/

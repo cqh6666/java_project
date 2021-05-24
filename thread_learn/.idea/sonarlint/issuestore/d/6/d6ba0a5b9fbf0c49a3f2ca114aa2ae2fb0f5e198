@@ -1,0 +1,12 @@
+
+h
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(´Î”Úþÿÿÿÿ8á­ªï™/
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§†¸~8™ —ï™/
+O
+java:S1135	"2Complete the task associated to this TODO comment.(»Ã´â8› —ï™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ß¡•ùùÿÿÿÿ8Öê›ï™/
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¯ƒ›ï™/
+{
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ç­ªï™/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ß±Îè8Œ—®ï™/

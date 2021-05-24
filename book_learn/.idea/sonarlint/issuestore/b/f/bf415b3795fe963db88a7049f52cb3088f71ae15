@@ -1,0 +1,6 @@
+
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(¾ïÂˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ºò
