@@ -1,6 +1,4 @@
 
-G
-src/com/haige/Main.java,e\7\e7e9b04ca795ee1b23ccb0ac3f4b5a0d6627b8a3
 O
 src/com/haige/SimpleDogCom.java,f\3\f3483d13a0b83c54c7022c929c68f2a68a750fe0
 M
@@ -9,5 +7,25 @@ F
 src/com/haige/Dog.java,6\2\62c0b3b2bd56ae0586d5b2834814439eed37b70d
 X
 (src/com/haige/SimpleDotComTestDrive.java,b\f\bf415b3795fe963db88a7049f52cb3088f71ae15
+T
+$src/com/haige/socket/ChatSocket.java,2\4\249512472aaf6892ed6ce2db9c79eb58e0a0b69d
 J
 src/com/haige/GuiTest.java,7\a\7a6afff3f91ca44cd05d1409142173631ba28c8a
+d
+4src/com/haige/collectionapi/equalmethod/Compare.java,5\1\51195dee3a833d1696c3216ef5fd60ad3052901e
+i
+9src/com/haige/collectionapi/equalmethod/HashCodeTest.java,0\c\0c3f9c7e572776b395325c07b06ee0c576aa24ed
+a
+1src/com/haige/collectionapi/equalmethod/User.java,8\3\83ed42c1057748afd672f9f4249bdbc2852ad18a
+h
+8src/com/haige/collectionapi/equalmethod/TreeSetTest.java,0\1\01ec57b9aceedcea6baad677728c75e04138b4a3
+d
+4src/com/haige/collectionapi/equalmethod/MapTest.java,2\6\26b7db79f4723c534baf732d4b5a8a06aaf932a4
+d
+4src/com/haige/collectionapi/equalmethod/Animals.java,7\4\74c752b7e47f7d9eefca527ef60fa9f536aead2a
+`
+0src/com/haige/collectionapi/equalmethod/Cat.java,1\9\193f5900d5019d139ff0c12717559e59d1ddb71c
+`
+0src/com/haige/collectionapi/equalmethod/Dog.java,a\c\ac0dc51ed78adce2324a34681b1623782a7a4292
+i
+9src/com/haige/collectionapi/equalmethod/WildcardTest.java,d\b\db111fd6c47ba0d9dac12f0b306ba3a871bdb926

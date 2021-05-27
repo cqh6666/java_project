@@ -1,2 +1,2 @@
 # java_project
-java 的一些学习代码
+java 的一些项目
