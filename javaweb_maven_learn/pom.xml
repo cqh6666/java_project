@@ -13,6 +13,7 @@
         <module>javaweb_02_servlet</module>
         <module>javaweb_03_jsp</module>
         <module>javaweb_04_filter</module>
+        <module>javaweb_05_jdbc</module>
     </modules>
 
     <dependencies>
@@ -43,7 +44,13 @@
             <groupId>taglibs</groupId>
             <artifactId>standard</artifactId>
             <version>1.1.2</version>
+        </dependency>
 
+<!--        数据库-->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.47</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api -->

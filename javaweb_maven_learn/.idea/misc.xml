@@ -4,6 +4,7 @@
     <file type="web" url="file://$PROJECT_DIR$/javaweb_01_servlet" />
     <file type="web" url="file://$PROJECT_DIR$/javaweb_02_servlet" />
     <file type="web" url="file://$PROJECT_DIR$/javaweb_03_jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/javaweb_04_filter" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
