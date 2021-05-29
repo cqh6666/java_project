@@ -8,13 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring_04_di" />
         <module name="spring_01_ioc" />
+        <module name="connect_mysql_test" />
         <module name="spring_06_anno" />
         <module name="spring_09_aop" />
         <module name="spring_07_appconfig" />
         <module name="spring_05_autowired" />
+        <module name="spring_10_mybatis" />
         <module name="spring_02_hello" />
         <module name="spring_03_user" />
         <module name="spring_08_proxy" />
+        <module name="mybatis_01_first" />
       </profile>
     </annotationProcessing>
   </component>
