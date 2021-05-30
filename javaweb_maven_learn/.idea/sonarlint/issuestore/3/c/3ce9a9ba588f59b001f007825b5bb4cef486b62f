@@ -1,0 +1,12 @@
+
+l
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ¸ˆ8Ãå´Å›/
+q
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½•À¢úÿÿÿÿ8êµÅ›/
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ßÊ‹øÿÿÿÿ8â‹´Å›/
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éé÷ş8´°´Å›/
+R
+java:S1128"7Remove this unused import 'java.sql.PreparedStatement'.(òÄ™ƒÿÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(»Ã´â
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(´ë8ğµÅ›/

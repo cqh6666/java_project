@@ -1,0 +1,20 @@
+
+h
+java:S2095)"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(œÜ þýÿÿÿÿ
+O
+java:S1128"9Remove this unused import 'javax.servlet.ServletRequest'.(ë´áÙ
+P
+java:S1128":Remove this unused import 'javax.servlet.ServletResponse'.(ìÃ¢»
+H
+java:S1135"2Complete the task associated to this TODO comment.(»Ã´â
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¾Í—®ùÿÿÿÿ
+s
+java:S1989."VHandle the following exception that could be thrown by "getOutputStream": IOException.(ñø€‰8ØÏ¡·›/
+h
+java:S19890"KHandle the following exception that could be thrown by "read": IOException.(«úê¤8æÏ¡·›/
+i
+java:S19891"LHandle the following exception that could be thrown by "write": IOException.(Æòøé8õÏ¡·›/
+n
+java:S19894"LHandle the following exception that could be thrown by "close": IOException.(¶ò†Áþÿÿÿÿ8…Ð¡·›/
+i
+java:S19895"LHandle the following exception that could be thrown by "close": IOException.(¢ÔïÌ8†Ð¡·›/
