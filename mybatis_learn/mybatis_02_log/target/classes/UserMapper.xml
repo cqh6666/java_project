@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--绑定Dao-->
+<mapper namespace="com.haige.dao.UserMapper">
+    <resultMap id="userResultMap" type="User">
+        <result property="userid" column="id" />
+        <result property="username" column="name"/>
+        <result property="password" column="pwd"/>
+    </resultMap>
+    <select id="getUserById" parameterType="int" resultMap="userResultMap">
+        select id,name,pwd from mybatis.user where id = #{id}
+    </select>
+
+    <select id="getUserByLimit" parameterType="map" resultMap="userResultMap">
+        select * from mybatis.user limit #{startIndex},#{pageSize}
+    </select>
+
+</mapper>

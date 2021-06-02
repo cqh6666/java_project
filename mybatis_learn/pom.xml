@@ -6,6 +6,7 @@
 
     <groupId>com.haige</groupId>
     <artifactId>mybatis_learn</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
@@ -19,6 +20,13 @@
             </plugin>
         </plugins>
     </build>
+    <modules>
+        <module>mybatis_01_all</module>
+        <module>mybatis_02_log</module>
+        <module>mybatis_03_autowired</module>
+        <module>mabatis_04_lombok</module>
+        <module>mybatis_05_ovm</module>
+    </modules>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->

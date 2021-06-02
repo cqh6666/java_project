@@ -2,11 +2,16 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mybatis_learn" />
+        <module name="mybatis_02_log" />
+        <module name="mybatis_03_autowired" />
+        <module name="mybatis_01_all" />
+        <module name="mabatis_04_lombok" />
+        <module name="mybatis_05_ovm" />
       </profile>
     </annotationProcessing>
   </component>
