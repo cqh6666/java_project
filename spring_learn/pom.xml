@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.haige</groupId>
+    <artifactId>spring_learn</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>spring_01_ioc</module>
+        <module>spring_02_hello</module>
+        <module>spring_03_user</module>
+        <module>spring_04_di</module>
+        <module>spring_05_autowired</module>
+        <module>spring_06_anno</module>
+        <module>spring_07_appconfig</module>
+        <module>spring_08_proxy</module>
+        <module>spring_09_aop</module>
+        <module>connect_mysql_test</module>
+        <module>spring_10_mybatis</module>
+        <module>spring_11_transaction</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>5.2.0.RELEASE</version>
+        </dependency>
+        <!-- mysql驱动 -->
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.47</version>
+        </dependency>
+        <!--  Spring操作数据库  -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>5.1.9.RELEASE</version>
+        </dependency>
+        <!-- mybatis -->
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>3.5.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis-spring</artifactId>
+            <version>2.0.6</version>
+        </dependency>
+        <!-- junit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.12</version>
+        </dependency>
+    </dependencies>
+</project>

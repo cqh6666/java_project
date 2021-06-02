@@ -21,4 +21,8 @@ public class TeacherTest {
         System.out.println(teacherById);
 
     }
+
+    public static void main(String[] args) {
+
+    }
 }
