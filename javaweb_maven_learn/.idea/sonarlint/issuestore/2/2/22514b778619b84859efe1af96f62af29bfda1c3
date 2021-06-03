@@ -1,8 +1,8 @@
 
-c
-java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.( éæ¶ýÿÿÿÿ
 j
 java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.( éæ¶ýÿÿÿÿ
 H
 java:S1135"2Complete the task associated to this TODO comment.(»Ã´â
 N	java:S106%"9Replace this use of System.out or System.err by a logger.(¦úúÏ

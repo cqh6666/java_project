@@ -1,0 +1,13 @@
+
+c
+java:S1192#"HDefine a constant instead of duplicating this literal "1231231" 9 times.(ŸëÅ†üÿÿÿÿ
+o
+java:S1488&"YImmediately return this expression instead of assigning it to the temporary variable "s".(Ø¸ˆü
+a
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ
+a
+java:S1128	"FRemove this unused import 'org.springframework.stereotype.Repository'.(¦ýÍýüÿÿÿÿ
+l
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.ResponseBody'.(•¶¶êøÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(»Ã´â

@@ -15,8 +15,6 @@ b
 2javaweb_02_servlet/src/main/webapp/WEB-INF/web.xml,9\8\982cda3bbda8cf56004280f6892743f6530d78bb
 ^
 .javaweb_02_servlet/src/main/webapp/success.jsp,0\a\0a7eb778ee0402aaec1cf8c63eaf802d43fa458b
-b
-2javaweb_01_servlet/src/main/webapp/WEB-INF/web.xml,7\4\746e43fb9dc2e3fbb16851dc9a9dccfcea607d0a
 J
 javaweb_01_servlet/pom.xml,b\e\be7d6a7434f50cbe703bd104579cf6570b848a24
 \
@@ -77,3 +75,11 @@ i
 9javaweb_05_jdbc/src/main/java/com/haige/test/GetData.java,5\6\5630b27ad08887669fdb478430843dab42da857c
 m
 =javaweb_05_jdbc/src/main/java/com/haige/test/TransacTest.java,3\c\3ce9a9ba588f59b001f007825b5bb4cef486b62f
+t
+Djavaweb_01_servlet/src/main/java/com/haige/servlet/ErrorServlet.java,c\5\c5d1d9443965bd0546d9e80e87c0a35bd2929f4d
+b
+2javaweb_01_servlet/src/main/webapp/WEB-INF/web.xml,7\4\746e43fb9dc2e3fbb16851dc9a9dccfcea607d0a
+\
+,javaweb_01_servlet/src/main/webapp/index.jsp,8\9\89caebd457a1c2148f4e17b73037cb40267c5baf
+t
+Djavaweb_01_servlet/src/main/java/com/haige/servlet/HelloServlet.java,a\0\a06634f005693af866e4e432f2a2996e57b0e1e3

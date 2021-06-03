@@ -1,8 +1,8 @@
 
-l
-java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ¸ˆ8Ãå´Å›/
 q
 java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½•À¢úÿÿÿÿ8êµÅ›/
+l
+java:S2095%"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ¸ˆ8Ãå´Å›/
 r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ßÊ‹øÿÿÿÿ8â‹´Å›/
 m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éé÷ş8´°´Å›/
 R
