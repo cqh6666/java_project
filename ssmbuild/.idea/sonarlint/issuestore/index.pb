@@ -1,0 +1,23 @@
+
+`
+0src/main/java/com/haige/service/BookService.java,b\a\ba2f872fe0f57c432c463ebf71ae45bec754f133
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+W
+'src/main/webapp/WEB-INF/jsp/allBook.jsp,1\3\13a7b3710180fe579ed7a21900a4bb1bfd829aaf
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+W
+'src/main/java/com/haige/pojo/Books.java,f\6\f6848ba276ab55b56ce8a67a20d04426da58082b
+Z
+*src/main/java/com/haige/dao/BookMapper.xml,7\0\70c59b94f5684c2cbd5b9f34aca79a53ecdbecb6
+I
+src/test/java/MyTest.java,0\9\090d28d6918cc3e17ad91a5f393439dd00939a30
+[
++src/main/java/com/haige/dao/BookMapper.java,6\f\6fb1a3c80c0cfa05648103fb1125df034f86c58c
+f
+6src/main/java/com/haige/controller/BookController.java,e\0\e0140034538040d6e4aa3412f8c0d08f6b35531b
+d
+4src/main/java/com/haige/service/BookServiceImpl.java,6\9\69b0a785a3ef8e09e02ee54bd16dd487783adba3
