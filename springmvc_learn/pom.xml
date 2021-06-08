@@ -15,6 +15,9 @@
         <module>springmvc_04_deppmvc</module>
         <module>springmvc_05_controller</module>
         <module>springmvc_06_json</module>
+        <module>springmvc_07_ajax</module>
+        <module>springmvc_08_intercepter</module>
+        <module>springmvc_08_interceptor</module>
     </modules>
 
     <!--导入依赖-->
