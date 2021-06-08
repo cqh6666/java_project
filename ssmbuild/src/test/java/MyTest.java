@@ -1,3 +1,4 @@
+import com.haige.pojo.Books;
 import com.haige.service.BookService;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
@@ -18,8 +19,8 @@ public class MyTest {
     public void test(){
         //排错
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
-        BookService bookServiceImpl = (BookService) context.getBean("BookServiceImpl");
-        for (Book queryAllBook : bookServiceImpl.queryAllBooks()) {
+        BookService bookService = (BookService) context.getBean("BookService");
+        for (Books queryAllBook : bookService.queryAllBooks()) {
             System.out.println(queryAllBook);
         }
     }
