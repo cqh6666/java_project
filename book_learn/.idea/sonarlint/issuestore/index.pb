@@ -29,3 +29,23 @@ d
 0src/com/haige/collectionapi/equalmethod/Dog.java,a\c\ac0dc51ed78adce2324a34681b1623782a7a4292
 i
 9src/com/haige/collectionapi/equalmethod/WildcardTest.java,d\b\db111fd6c47ba0d9dac12f0b306ba3a871bdb926
+O
+src/com/haige/rtti/Hamster.java,6\6\6680adf9af91b8dc10d1e03f13020d90d2b94cef
+K
+src/com/haige/rtti/Cat.java,7\8\78ebf55734e7b180d9d08bbed3133c82be0adce0
+N
+src/com/haige/rtti/Rodent.java,9\b\9b93ad617f88859df80fefc936b16de7804ba851
+K
+src/com/haige/rtti/Dog.java,8\2\8238e399d54691146205bada59bbcd62116f25e2
+N
+src/com/haige/rtti/Gerbil.java,3\0\30da920f8d648d5a7824f1a21ad1114b78c386d2
+K
+src/com/haige/rtti/Pet.java,f\a\fa68566e35062e5ec0c6f3ab5bb873446d54853f
+O
+src/com/haige/rtti/Counter.java,8\a\8a70d7e1bbc8f96301ddc96d46e047ba24645822
+X
+(src/com/haige/rtti/AssociativeArray.java,c\1\c153597a97f7a22e8faf618c0a49af47beae3087
+P
+ src/com/haige/rtti/PetCount.java,0\f\0f7749cb510384de583e5ceaffabe2fb80a1de43
+K
+src/com/haige/rtti/Pug.java,1\0\10c6e5e750c3ce3f59d7b6efd3ca3253fff15e19

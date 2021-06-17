@@ -60,23 +60,21 @@ b
 0book_learn/src/com/haige/flashcard/QuizCard.java,6\c\6cedcaf64034c8c7f8b028e4f608dd5f4f24250e
 b
 2book_learn/src/com/haige/serial/ClassToSerial.java,4\1\415c465767f8d25b8f4e5ce8fed2d3cac4eadc97
-f
-6book_learn/src/com/haige/flashcard/QuizCardPlayer.java,3\7\3741a64eeea80a7cffb9fe767c5f3d2e94cd0b7a
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+_
+/book_learn/src/com/haige/socket/ChatSocket.java,0\0\00779bad970b31b7fe442016b97c8a82c5abb001
 g
 7book_learn/src/com/haige/flashcard/QuizCardBuilder.java,0\3\03fc105ef86e4e9dee02a9e7e08cdc59be436c59
 X
 (book_learn/src/com/haige/GameHelper.java,1\0\10dfd0b884c760d697582359e5f49ec1333e7c91
 U
 %book_learn/src/com/haige/GuiTest.java,8\b\8b4425fedcb70187cc5fc0ae2e14d2f6fd1a1d54
-c
-3book_learn/src/com/haige/SimpleDotComTestDrive.java,3\5\35db027ffe00fb4e1fd91cb493b211320da23192
 Z
 *book_learn/src/com/haige/SimpleDogCom.java,c\5\c58d073eb586a78e31f732a58faea8ab13e4710d
-R
-"book_learn/src/com/haige/Main.java,4\b\4b334cae369d19761f2b82d48c488bcadc982ce2
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-_
-/book_learn/src/com/haige/socket/ChatSocket.java,0\0\00779bad970b31b7fe442016b97c8a82c5abb001
+c
+3book_learn/src/com/haige/SimpleDotComTestDrive.java,3\5\35db027ffe00fb4e1fd91cb493b211320da23192
+f
+6book_learn/src/com/haige/flashcard/QuizCardPlayer.java,3\7\3741a64eeea80a7cffb9fe767c5f3d2e94cd0b7a
 l
 <maven_parent/maven_services/src/main/java/com/haige/App.java,0\2\02a4d207e680496b1f94da3055bd14c08d813291
