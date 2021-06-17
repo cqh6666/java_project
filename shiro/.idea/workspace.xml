@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ef4c4ab-48ea-405c-a152-1c655d5802b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../springmvc_learn/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvc_learn/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\m2\repo" />
+        <option name="mavenHome" value="C:\Users\cqh\.m2\wrapper\dists\apache-maven-3.8.1-bin\2l5mhf2pq2clrde7f7qp1rdt5m\apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tnM80Bd3IpmV6VRhwioZSlItTn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mapper" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_learn_project\shiro\src\main\resources\mapper" />
+      <recent name="D:\java_learn_project\shiro\src\main\resources\templates\user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShiroApplication">
+    <configuration name="ShiroApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shiro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.haige.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.haige" />
+      <option name="MAIN_CLASS_NAME" value="com.haige.ShiroApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShiroApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.haige.ShiroApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShiroApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef4c4ab-48ea-405c-a152-1c655d5802b3" name="Default Changelist" comment="" />
+      <created>1623400254004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623400254004</updated>
+      <workItem from="1623400255294" duration="15480000" />
+      <workItem from="1623751401673" duration="6760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623412665803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1623412665803" />
+    <state x="765" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1623413972748">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1623413972748" />
+    <state width="1879" height="288" key="GridCell.Tab.0.bottom" timestamp="1623760495615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1623760495615" />
+    <state width="1879" height="288" key="GridCell.Tab.0.center" timestamp="1623760495615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1623760495615" />
+    <state width="1879" height="288" key="GridCell.Tab.0.left" timestamp="1623760495615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1623760495615" />
+    <state width="1879" height="288" key="GridCell.Tab.0.right" timestamp="1623760495615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1623760495615" />
+    <state width="1879" height="288" key="GridCell.Tab.1.bottom" timestamp="1623760495616">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="288" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1623760495616" />
+    <state width="1879" height="288" key="GridCell.Tab.1.center" timestamp="1623760495615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="288" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1623760495615" />
+    <state width="1879" height="288" key="GridCell.Tab.1.left" timestamp="1623760495615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="288" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1623760495615" />
+    <state width="1879" height="288" key="GridCell.Tab.1.right" timestamp="1623760495615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="288" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1623760495615" />
+    <state width="318" height="538" key="HiddenNamespacesPopup" timestamp="1623413860748">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="318" height="538" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1623413860748" />
+    <state x="681" y="280" width="540" height="540" key="StructurePopup" timestamp="1623420025123">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="280" width="540" height="540" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1623420025123" />
+    <state x="781" y="305" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1623421914144">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="781" y="305" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1623421914144" />
+    <state x="742" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623411646474">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="742" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1623411646474" />
+    <state x="442" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1623414897704">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="442" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1623414897704" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-1" timestamp="1623420065055">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1623420065055" />
+    <state x="124" y="114" key="new project wizard" timestamp="1623760472557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="124" y="114" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1623760472557" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1623756307248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1623756307248" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.nio.charset.MalformedInputException" package="java.nio.charset" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
