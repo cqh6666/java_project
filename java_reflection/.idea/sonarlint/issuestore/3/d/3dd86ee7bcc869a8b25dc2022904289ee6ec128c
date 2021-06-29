@@ -1,0 +1,35 @@
+
+l
+java:S1104U"QMake hobby a static final constant or non-public and provide accessors if needed.(ï„è™ûÿÿÿÿ
+f
+java:S1104a"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+H
+java:S1135"2Complete the task associated to this TODO comment.(»Ã´â
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÝ£½ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûâ¢Ä
+S	java:S106""9Replace this use of System.out or System.err by a logger.(èúÑäþÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¢äÞàùÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(æ¡æºýÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(›´©Šþÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ŽÆîÓúÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ôÄÜáûÿÿÿÿ
+Q	java:S125I"<This block of commented-out lines of code should be removed.(ƒí¡˜
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(Ú¿Æùÿÿÿÿ
+—
+java:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Óé¬©
+œ
+java:S1186i"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õÈ×üûÿÿÿÿ
+œ
+java:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ý¤À‚ýÿÿÿÿ
+œ
+java:S1186o"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à‰‰Šüÿÿÿÿ
+K
+java:S1133`"5Do not forget to remove this deprecated code someday.(Éÿ½ü
+>
+java:S1123`"(Add the missing @deprecated Javadoc tag.(Éÿ½ü
+B
+java:S1068d"'Remove this unused "sal" private field.(‘®¦Áøÿÿÿÿ
+B
+java:S1144o"'Remove this unused private "m4" method.(à‰‰Šüÿÿÿÿ

@@ -1,0 +1,27 @@
+
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(²œıšıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(–ÿ‡ôûÿÿÿÿ
+Q
+java:S3740-"/Provide the parametrized type for this generic.(µ³Åùÿÿÿÿ8¬ÒçÍ¡/
+L
+java:S37401"/Provide the parametrized type for this generic.(äô¬â8ÍÇìÍ¡/
+M
+java:S1128
+"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8ĞÇìÍ¡/
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+c
+java:S1128"HRemove this unused import 'java.lang.reflect.InvocationTargetException'.(è¾†„øÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(»Ã´â
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(™á‹òÿÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(±í±
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(à·ŠËÿÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(É¢ÇÉÿÿÿÿÿ
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(Ï³ç8
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(íÙÙ³ùÿÿÿÿ8·ÒçÍ¡/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(õº©Äÿÿÿÿÿ8¯üíÍ¡/

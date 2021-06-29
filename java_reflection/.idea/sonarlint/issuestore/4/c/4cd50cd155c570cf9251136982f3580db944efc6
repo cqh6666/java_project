@@ -1,0 +1,18 @@
+
+h
+java:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(²œıšıÿÿÿÿ
+J
+java:S3740."/Provide the parametrized type for this generic.(–ÿ‡ôûÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(»Ã´â
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿàˆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤Áò¬ıÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(İÎ¯÷
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¦ĞÕıÿÿÿÿ
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(™á‹òÿÿÿÿÿ8ŞÕËÉ¡/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(±í±8‘­ÌÉ¡/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(à·ŠËÿÿÿÿÿ8ŒîÌÉ¡/
