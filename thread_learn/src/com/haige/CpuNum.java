@@ -1,4 +1,6 @@
-package thread_learn.src.com.haige;
+package com.haige;
+
+import java.util.*;
 
 /**
  * @className: com.haige-> CpuNum
@@ -15,5 +17,12 @@ public class CpuNum {
         int cpuNums = runtime.availableProcessors();
         // 6核
         System.out.println(cpuNums);
+
+        HashMap<Integer, Integer> integerIntegerHashMap = new HashMap<>();
+
+        ArrayList<String> strings = new ArrayList<String>();
+
+        strings.removeIf(s -> s.equals("bbb"));
+
     }
 }

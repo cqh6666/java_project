@@ -1,10 +1,9 @@
 package com.haige.controller;
 
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.web.bind.annotation.RequestMapping;
-
-
+import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @className: com.haige.controller-> indexController
@@ -14,8 +13,19 @@ import org.springframework.web.bind.annotation.RequestMapping;
  * @version: 1.0
  * @todo:
  */
-@Controller
+@RestController
 public class IndexController {
 
+    Logger logger = LogManager.getLogger(IndexController.class);
+
+    @RequestMapping("/log")
+    public String index(){
+        logger.trace("A TRACE Message");
+        logger.debug("A DEBUG Message");
+        logger.info("An INFO Message");
+        logger.warn("A WARN Message");
+        logger.error("An ERROR Message");
+        return "hello, this is logging test!";
+    }
 
 }

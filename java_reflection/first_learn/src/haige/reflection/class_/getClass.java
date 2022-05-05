@@ -2,6 +2,8 @@ package haige.reflection.class_;
 
 import haige.Cat;
 
+import java.util.logging.Logger;
+
 /**
  * @className: haige.reflection.class_-> getClass
  * @description: 演示得到Class对象的各种方式
@@ -12,7 +14,10 @@ import haige.Cat;
  */
 public class getClass {
 
+
     public static void main(String[] args) throws ClassNotFoundException {
+
+
         /**
          * 已知一个类的全类名，且该类在类路径下，可通过Class类的静态方法forName()获取
          * 应用场景：多用于配置文件,读取类全路径，加载类
@@ -20,7 +25,6 @@ public class getClass {
         String classAllPath = "haige.Cat";
         Class<?> cls1 = Class.forName(classAllPath);
         System.out.println(cls1);
-
         /**
          * 已知具体的类，通过类的class获取，该方式最为安全可靠，程序性能最高
          * 应用场景： 多用于参数构造，比如通过反射得到对应构造器对象

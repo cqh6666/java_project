@@ -37,4 +37,12 @@ mybatis:
   type-aliases-package: com.haige.pojo
   mapper-locations: classpath:mybatis/mapper/*.xml
 
-# 整合mybatis
+# ===== 自定义swagger配置 ===== #
+swagger:
+  enable: false
+  application-name: ${spring.application.name}
+  application-version: 1.0
+  application-description: springfox swagger 3.0整合Demo
+  try-host: http://localhost:${server.port}
+
+

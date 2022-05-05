@@ -15,8 +15,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
  * @version: 1.0
  * @todo:
  */
-
-@EnableWebSecurity
+//@Configuration
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
     // 授权
     @Override
@@ -33,7 +32,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         http.formLogin().loginPage("/toLogin").loginProcessingUrl("/login");
 
         // 注销失败可能原因
-        http.csrf().disable();
+//        http.csrf().disable();
         // 注销功能
         http.logout().logoutSuccessUrl("/");
 

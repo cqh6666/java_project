@@ -14,6 +14,7 @@ public class ThreadMethod01 {
 
         t.setName("海鸽");
         t.setPriority(Thread.MIN_PRIORITY);
+        // start运行方法
         t.start();
 
         // 主线程 打印 5 个 hi，然后中断子线程的休眠
@@ -34,10 +35,15 @@ public class ThreadMethod01 {
 
 
 class TM1 extends Thread{
+    /**
+     * 迭代次数
+     */
+    final private int itRound = 100;
+
     @Override
     public void run() {
         while(true) {
-            for (int i = 0; i < 100; i++) {
+            for (int i = 0; i < itRound; i++) {
                 System.out.println(Thread.currentThread().getName() + " 吃包子..." + i);
             }
             try {

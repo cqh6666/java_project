@@ -26,6 +26,11 @@ public class RouterController {
         return "views/login";
     }
 
+    @RequestMapping("/unauth")
+    public String unauth(){
+        return "unauth";
+    }
+
     @RequestMapping("/level1/{id}")
     public String toLevel1(@PathVariable("id") int id){
         return "views/level1/"+id;
